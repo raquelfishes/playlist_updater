@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {
+            "description": "DESCRIPTION NAME",
+            "playlistURI":"PLAYLIST URI TO BE UPDATED",
+            "references":[
+                "PLAYLIST URI OF REFERENCE", 
+                ...
+                "PLAYLIST URI OF REFERENCE"
+            ],
+            "trackCount": 100 "NUMBER OF ELEMENTS TO BE ADDED TO PLAYLIST"
+        }
+    ]
+}
